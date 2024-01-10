@@ -6,7 +6,9 @@ const MyHeader = () => {
 
     return (
         <div>
-            header
+            <header id='header'>
+                <p>header</p>
+            </header>
         </div>
     );
 };

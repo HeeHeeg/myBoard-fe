@@ -6,7 +6,9 @@ const MyFooter = () => {
 
     return (
         <div>
-            footer
+            <footer id='footer'>
+                <p>footer</p>
+            </footer>
         </div>
     );
 };
