@@ -1,0 +1,18 @@
+.button_container {
+    display: flex;
+    justify-content: flex-end;
+    /*align-items: center;*/
+    padding: 30px;
+}
+
+.insertButton {
+    color: #0000FF;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.02em;
+    user-select: none;
+    background: none;
+    border: none;
+
+}
